@@ -10,7 +10,7 @@ setup(
         'custom_serialize/serializer/yaml',
     ],
     version='1.0.0',
-    author='vestriger',
+    author='NaryFan',
     install_requires=[],
     setup_requires=['pytest-runner'],
     tests_require=['pytest==6.2.3'],
